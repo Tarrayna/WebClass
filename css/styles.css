@@ -43,3 +43,33 @@ nav li a
     padding: 0.5em 2em;
     text-decoration: none;
 }
+
+/*Style rules for main content*/
+main{
+    padding: 2%;
+    font-family: Verdana, Arial, sans-serif;
+}
+main p{
+    font-size: 1.25em;
+}
+main h3{
+    padding-top: 2%;
+}
+main ul{
+    list-style: square;
+}
+
+.link{
+    color:#4d3319;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+}
+.action{
+    font-size: 1.75em;
+    font-weight: bold;
+    text-align: center;
+}
+#contact{
+    text-align: center;
+}
