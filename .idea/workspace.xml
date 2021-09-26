@@ -21,8 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2ee0e07b-ec23-4dcb-97d0-00791be3d26f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632682206931</updated>
-      <workItem from="1632682208044" duration="3620000" />
+      <workItem from="1632682208044" duration="4279000" />
     </task>
     <task id="LOCAL-00001" summary="Updating File Paths">
       <created>1632682285333</created>
@@ -86,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632685321650</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Removed redundant formatting">
+      <created>1632685924113</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632685924113</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Removed redundant formatting">
+      <created>1632686095977</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1632686095977</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,13 +119,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updating File Paths" />
     <MESSAGE value="Added css links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added css links" />
+    <MESSAGE value="Removed redundant formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed redundant formatting" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="3432" y="456" key="Vcs.Push.Dialog.v2" timestamp="1632685322820">
+    <state x="3432" y="456" key="Vcs.Push.Dialog.v2" timestamp="1632686098273">
       <screen x="0" y="0" width="5120" height="1440" />
     </state>
-    <state x="3432" y="456" key="Vcs.Push.Dialog.v2/5120.-752.1440.2560/0.0.5120.1440/1799.-1440.2560.1440@0.0.5120.1440" timestamp="1632685322820" />
+    <state x="3432" y="456" key="Vcs.Push.Dialog.v2/5120.-752.1440.2560/0.0.5120.1440/1799.-1440.2560.1440@0.0.5120.1440" timestamp="1632686098273" />
     <state x="3547" y="323" width="585" height="801" key="find.popup" timestamp="1632685154180">
       <screen x="0" y="0" width="5120" height="1440" />
     </state>
