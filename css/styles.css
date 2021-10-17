@@ -116,7 +116,7 @@ figure{
 }
 
 figcaption{
-  pad: 2%;
+  padding: 2%;
   border-top: 4px solid #2a1f14;
 }
 #info ul{
